@@ -72,10 +72,7 @@ public class GenerateDirZip {
 				fileList.add(temp.getAbsolutePath());
 				System.out.println("Temp : "+temp);
 				
-			}else{
-				addFile(temp);
-			}
-			
+			}			
 		}
 		
 	}
